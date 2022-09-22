@@ -5,6 +5,7 @@
   "license": "MIT",
   "homepage": "https://github.com/dalelotts/angular-date-time-input",
   "main": "src/dateTimeInput.js",
+  "version": 1.2.1
   "keywords": [
     "angular",
     "date input",
